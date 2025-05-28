@@ -50,6 +50,7 @@ Designed and led by [Nadia Urban](#), PhD Candidate and Lecturer in Computationa
 ---
 
 *Empowering the next generation of data thinkers—one student at a time.* 🌟
+
 ---
 <br>
 <img src="https://github.com/user-attachments/assets/b6be0444-6140-400d-8652-ce61b7489967" alt="Shanghai Thomas Survey" width="400"/>
