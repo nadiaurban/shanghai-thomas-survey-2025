@@ -16,7 +16,8 @@ In this PBL, students:
 - Wrote a structured research report detailing their methodology and results
 
   
-![Shanghai Thomas Survey (5)](https://github.com/user-attachments/assets/853cb2db-ffe6-4a56-841d-1e7ef87606ce)
+<img src="https://github.com/user-attachments/assets/853cb2db-ffe6-4a56-841d-1e7ef87606ce" alt="Shanghai Thomas Survey (5)" width="400"/>
+<br>
 
   
 
@@ -49,9 +50,11 @@ Designed and led by [Nadia Urban](#), PhD Candidate and Lecturer in Computationa
 ---
 
 *Empowering the next generation of data thinkers—one student at a time.* 🌟
-![Shanghai Thomas Survey](https://github.com/user-attachments/assets/b6be0444-6140-400d-8652-ce61b7489967)
-![Shanghai Thomas Survey (2)](https://github.com/user-attachments/assets/c1e1f4ff-386d-435a-aa1f-9e44ef5811e2)
-![Shanghai Thomas Survey (3)](https://github.com/user-attachments/assets/f9670e05-139c-40bb-a54d-33ffced3ac4a)
+<img src="https://github.com/user-attachments/assets/b6be0444-6140-400d-8652-ce61b7489967" alt="Shanghai Thomas Survey" width="400"/>
+<br>
+<img src="https://github.com/user-attachments/assets/c1e1f4ff-386d-435a-aa1f-9e44ef5811e2" alt="Shanghai Thomas Survey (2)" width="400"/>
+<br>
+<img src="https://github.com/user-attachments/assets/f9670e05-139c-40bb-a54d-33ffced3ac4a" alt="Shanghai Thomas Survey (3)" width="400"/>
 
 
 
