@@ -1,4 +1,6 @@
-![Blue and White Simple Minimalist Abstract Professional Company Profile Booklet](https://github.com/user-attachments/assets/0269553c-a634-49f4-b59c-035417fe7693)
+
+<img src="https://github.com/user-attachments/assets/0269553c-a634-49f4-b59c-035417fe7693" alt="Blue and White Simple Minimalist Abstract Professional Company Profile Booklet" width="400"/>
+
 # 📊 Shanghai Thomas Survey (STS)
 
 **Shanghai Thomas Survey** is a year-long, project-based learning (PBL) program that introduces middle school students to the world of data science, research, and artificial intelligence. Through hands-on modules, students explore research design, data collection, analysis using Python, and the art of storytelling through data.
